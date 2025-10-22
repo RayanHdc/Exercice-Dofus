@@ -35,3 +35,4 @@ while (Totaldetour <= 4) {
     }
 }
 
+console.log ("Iop est la meilleure classe !")
